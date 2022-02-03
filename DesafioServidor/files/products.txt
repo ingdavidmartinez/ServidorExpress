@@ -1,0 +1,20 @@
+[
+  {
+    "title": "pen",
+    "price": 0.7,
+    "thumbnail": "https://www.dreamstime.com/photos-images/pen.html",
+    "id": 1
+  },
+  {
+    "title": "sharpener",
+    "price": 0.5,
+    "thumbnail": "https://www.dreamstime.com/photos-images/sharpener.html",
+    "id": 2
+  },
+  {
+    "title": "eraser",
+    "price": 0.3,
+    "thumbnail": "https://www.dreamstime.com/photos-images/eraser.html",
+    "id": 3
+  }
+]
